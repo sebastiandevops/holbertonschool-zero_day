@@ -1,4 +1,4 @@
 # holbertonschool-zero_day
 
 
-This is my firs project on Holberton.
+My name is Sebastian Valencia and this is my first project on Holberton.
