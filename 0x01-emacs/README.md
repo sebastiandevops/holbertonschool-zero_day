@@ -1,0 +1,1 @@
+ This project is about the fundamentals of EMACS, showing tha basic command for actions in emacs, like exit, save, close, as many others.
