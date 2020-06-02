@@ -1,0 +1,1 @@
+his project is about the fundamentals of vi, a defaut editor that comes with UNIX and was created by Bill Joy, an american engineer and co-founder of Sun Microsystem. This is a oriented text editor like EMACS.This repository includes the answer of theseven task assigned.
