@@ -1,1 +1,1 @@
-Linux
+This project is about the generalities to start this journey. This includes concepts like virtual machine, man uname. Also we learn how to install vagrant to run ubuntu in the virtual space as well as git and github use on ubunto tho uptade the repositories.
