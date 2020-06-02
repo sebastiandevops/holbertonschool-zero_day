@@ -1,0 +1,1 @@
+This repository is about fundamentals of GIT and GITHUB, which the first refers a distributed version-control system for tracking changes in source code during software development, and the second is the hosting for this development.
