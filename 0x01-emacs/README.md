@@ -6,7 +6,7 @@ by Julien Barbier, co-founder & CEO at Holberton School
 
 weight: 1
 
-## For this project, students are expected to look at these concepts:
+### For this project, students are expected to look at these concepts:
 
     Source code management
     Using Emacs as editor
